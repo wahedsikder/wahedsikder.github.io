@@ -3,6 +3,8 @@
 Particle.js based Portfolio website.
 
 <a href="https://wahedshuvo.github.io">Live Demo</a>
+<br>
+<img src="https://github.com/wahedshuvo/wahedshuvo.github.io/blob/master/img/demo.PNG">
 
 
 # Usage
