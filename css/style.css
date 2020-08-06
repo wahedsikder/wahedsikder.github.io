@@ -146,8 +146,11 @@ h1 {
     flex-wrap: nowrap;
 }
 h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   flex-wrap: nowrap;
+}
+.btn {
+  padding: 0.5rem 1.5rem;
 }
 }
 
@@ -191,11 +194,4 @@ h3 {
 #fb, #twi, #ins {
   color: rgba(189, 72, 0);
   font-size: 40px;
-}
-footer {
-  position: absolute;
-  bottom: 0;
-  display: flex;
-  justify-content: center;
-
 }
