@@ -1,10 +1,10 @@
-# wahedshuvo.github.io
+# wahedsikder.github.io
 
 Particle.js based Portfolio website.
 
-<a href="https://wahedshuvo.github.io">Live Demo</a>
+<a href="https://wahedsikder.github.io">Live Demo</a>
 <br>
-<img src="https://github.com/wahedshuvo/wahedshuvo.github.io/blob/master/img/demo.PNG">
+<img src="https://github.com/wahedsikder/wahedsikder.github.io/blob/master/img/demo.PNG">
 
 
 # Usage
